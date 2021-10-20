@@ -11,13 +11,13 @@
     + Lenguaje Natural: English / My lenguaje native is the Spanish, I am from is Chile, Atacama.
     + Modeler 3D with Blender and Spark AR
       + Making filters 3D in Facebook or Instagram
-    +Too, I'm learning Lenguajes of level advanced
-      +C / Beging
-      +C++ / Beging
+    +Too, I'm learning
+      +C / starting
+      +C++ / starting - intermediate
       +JS / intermediate
-      +PHP / intermediate
-      +Python / Beging
-      +SQL / Beging 
+      +PHP / starting - intermediate
+      +Python / starting
+      +SQL / starting 
 - 💞️ I’m looking to collaborate on ...
     +Whatever relates to 3D development / i love forever dev in enviroments 3D
 - 📫 How to reach me ...
